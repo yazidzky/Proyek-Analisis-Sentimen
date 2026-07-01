@@ -1,0 +1,7 @@
+google_play_scraper
+pandas
+scikit-learn
+tqdm
+jupyter
+numpy
+joblib
